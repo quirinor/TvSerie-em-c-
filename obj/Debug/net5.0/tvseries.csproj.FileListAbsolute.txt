@@ -1,0 +1,16 @@
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.exe
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.deps.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.runtimeconfig.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.runtimeconfig.dev.json
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\ref\tvseries.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\bin\Debug\net5.0\tvseries.pdb
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.csprojAssemblyReference.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.AssemblyInfoInputs.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.AssemblyInfo.cs
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.csproj.CoreCompileInputs.cache
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\ref\tvseries.dll
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.pdb
+C:\Mulekolandia Educação\BootCamp\dotnetDIO\tvseries\obj\Debug\net5.0\tvseries.genruntimeconfig.cache
